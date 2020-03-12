@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "828040335520",
+    "firebase_url": "https://calenderapp-ec93d.firebaseio.com",
+    "project_id": "calenderapp-ec93d",
+    "storage_bucket": "calenderapp-ec93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828040335520:android:8f04041e79ca859595b9c5",
+        "android_client_info": {
+          "package_name": "com.nexeyo.calenderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828040335520-ma4cpvdtujcui0tbvanjhag44jhb9kq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexeyo.calenderapp",
+            "certificate_hash": "ff5fbac94c1b988a280122290dfc3824241b4f97"
+          }
+        },
+        {
+          "client_id": "828040335520-gg2c4ocl8akg0ilsuk6ulc794p3d4i0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexeyo.calenderapp",
+            "certificate_hash": "63b4d8d60e1e53fb3366a25d090e056b66b601d9"
+          }
+        },
+        {
+          "client_id": "828040335520-jqmn9pb2cq325btjchav648hs0o8pgh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwfTf-o-7q5hzjXuVj7pV7-hI_I0rnLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828040335520-jqmn9pb2cq325btjchav648hs0o8pgh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
